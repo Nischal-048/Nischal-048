@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nischal-048
 - 👀 I’m interested in Software Development, Cloud Computing.
-- 🌱 I’m currently learning Java Full stack Development.
+- 🌱 I’m currently working as software Engineer.
 - 💞️ I’m looking to collaborate on Software Development and Cloud computing.
 - 📫 How to reach me at nischalcn@gmail.com
 
